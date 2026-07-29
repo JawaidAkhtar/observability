@@ -150,7 +150,7 @@ Collects logs from the Docker host and forwards them to Loki.
 # 🏗️ Monitoring Architecture
 
 <img width="1536" height="1024" alt="ChatGPT Image Jul 29, 2026, 10_45_50 PM" src="https://github.com/user-attachments/assets/2860aba5-0ebb-45e2-b09e-14b24418c5ce" />
----
+
 
 # 🚀 Deployment Guide
 
